@@ -177,3 +177,58 @@
 </table>
 
 ## <a name="cap1"></a>Capítulo 1: Introducción
+### <a name="start-up"></a> 1.1 Startup Profile
+#### 1.1.1. Descripción de la Startup
+Dev Raid es una startup fundada por un grupo de estudiantes de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC), con el firme propósito de abordar las preocupaciones y desafíos que enfrentan los apasionados de los automóviles en el proceso de personalización de vehículos. A través de nuestra innovadora plataforma, CarTunn, buscamos ofrecer precios justos y transparentes, así como resolver la falta de accesibilidad, variedad, orientación y asequibilidad en la industria de la personalización automotriz. Con un equipo comprometido con la excelencia técnica y la pasión por la innovación, estamos dedicados a proporcionar a nuestros usuarios una experiencia de personalización de vehículos emocionante, satisfactoria y accesible.
+
+##### Misión: 
+Nuestra misión es facilitar la personalización de vehículos, a través de una plataforma accesible y transparente que atienda sus necesidades individuales con precios equitativos y orientación especializada.
+
+##### Visión: 
+Nos proponemos ser líderes globales en el ámbito de la personalización automotriz, reconocidos por nuestra integridad, excelencia y dedicación a la satisfacción del cliente, ofreciendo una experiencia incomparable y estimulante para cada usuario.
+
+##### 1.1.2. Perfiles de los integrantes
+<table>
+    <tr>
+        <th colspan="2">Alfaro Cumba, Leonel</th>
+    </tr>
+    <tr style="text-align: justify">
+        <td>Foto</td>
+        <td> TBD </td>
+    </tr>
+    <tr>
+        <th colspan="2">Ayquipa Ubaldo, Abraham Israel</th>
+    </tr>
+    <tr style="text-align: justify">
+        <td>Foto</td>
+        <td> TBD </td>
+    </tr>
+    <tr>
+        <th colspan="2">Cisneros Tafur, Diego Rafael</th>
+    </tr>
+    <tr style="text-align: justify">
+        <td>Foto</td>
+        <td> TBD </td>
+    </tr>
+    <tr>
+        <th colspan="2">Mendoza Pimentel, Piero</th>
+    </tr>
+    <tr style="text-align: justify">
+        <td>Foto</td>
+        <td> TBD </td>
+    </tr>
+    <tr>
+        <th colspan="2">Neyra Santa Cruz, Marcelo Sebastian</th>
+    </tr>
+    <tr style="text-align: justify">
+        <td><img src="images/perfiles-marcelo.jpg" alt="Marcelo Neyra"></td>
+        <td> Mi nombre es Marcelo Sebastian Neyra Santa Cruz, Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de C++ y HTML. Me considero como una persona perseverante, trabajadora y amable. Mi sueño/meta es convertirme en un desarrollador de videojuegos en la empresa Nintendo.</td>
+    </tr>
+    <tr>
+        <th colspan="2">Soto Salis, Natanael David</th>
+    </tr>
+    <tr style="text-align: justify">
+        <td>Foto</td>
+        <td> TBD </td>
+    </tr>
+</table>
