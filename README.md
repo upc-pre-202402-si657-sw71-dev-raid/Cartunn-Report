@@ -138,9 +138,9 @@
             <p><strong>Neyra Santa Cruz, Marcelo Sebastian</strong></p>
             <p><strong>TB1</strong></p>
             <p>Escribe aquí lo que hiciste</p>
-            <p><strong>Neyra Santa Cruz, Marcelo Sebastian</strong></p>
+            <p><strong>Soto Salis, Natanael David</strong></p>
             <p><strong>TB1</strong></p>
-            <p>Soto Salis, Natanael David</p>
+            <p>Escribe aquí lo que hiciste</p>
         </td>
         <td>
             <p>Aqui van las conclusiones</p>
@@ -166,9 +166,9 @@
             <p><strong>Neyra Santa Cruz, Marcelo Sebastian</strong></p>
             <p><strong>TB1</strong></p>
             <p>Escribe aquí lo que hiciste</p>
-            <p><strong>Neyra Santa Cruz, Marcelo Sebastian</strong></p>
+            <p><strong>Soto Salis, Natanael David</strong></p>
             <p><strong>TB1</strong></p>
-            <p>Soto Salis, Natanael David</p>
+            <p>Escribe aquí lo que hiciste</p>
         </td>
         <td>
             <p>Aqui van las conclusiones</p>
